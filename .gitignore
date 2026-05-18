@@ -1,0 +1,22 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and local workspace files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local scratch/export folders
+tmp/
+temp/
+dist/
+build/
+exports/
+
+# Logs
+*.log
+
